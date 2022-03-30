@@ -1,8 +1,3 @@
-provider "aws" {
-    region ="us-east-1"
-    access_key = "AKIAQWNZO2HZOWLF4XTC"
-    secret_key = "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"
-}
 
 # Project Steps 
 # 1. Create VPC
